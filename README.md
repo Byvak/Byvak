@@ -1,6 +1,6 @@
-### Hi Peeps 👋🏼
+### Hi Everyone 👋🏼
 
-*I'm **Burnny Kibonge*** 😊
+*My name is **Burnny Kibonge*** 😊
 
 - 🌱 I’m currently learning `flutter` and I'm passionate about programming.
 
