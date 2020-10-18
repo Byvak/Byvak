@@ -1,4 +1,4 @@
-### Hi Everyone 👋🏼
+### Hello Everyone 👋🏼
 
 *My name is **Burnny Kibonge*** 😊
 
