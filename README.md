@@ -2,7 +2,7 @@
 
 *I'm **Burnny Kibonge*** 😊
 
-- 🌱 I’m currently learning `flutter` and i'am passionate about programming
+- 🌱 I’m currently learning `flutter` and I'm passionate about programming.
 
 <!--
 **Byvak/Byvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
