@@ -4,10 +4,11 @@
 
 - 🌱 I’m currently learning `flutter` and I'm passionate about programming.
 
+<img align='rigth' src='https://www.coredna.com/web_images/What-is-Git.gif' width='200'>
+
 ## 📊 Github stats
 
 [![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak)
-<img src='https://www.coredna.com/web_images/What-is-Git.gif' width='200'>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byvak&layout=default&theme=algolia&hide=html,coffeescript)](https://github.com/byvak)-->
 <!--
