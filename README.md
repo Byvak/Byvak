@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning `flutter` and I'm passionate about programming.
 
-<img align='rigth' src='https://www.coredna.com/web_images/What-is-Git.gif' width='200'>
+<img align='rigth' src='https://www.coredna.com/web_images/What-is-Git.gif' width='100'>
 
 ## 📊 Github stats
 
