@@ -1,4 +1,4 @@
-### Hello Everyone <img align='right' src='https://www.coredna.com/web_images/What-is-Git.gif' width='150'>
+### Hello Everyone <img align='right' src='https://www.coredna.com/web_images/What-is-Git.gif' width='180'>
 
 
 *My name is **Burnny Kibonge*** 😊
