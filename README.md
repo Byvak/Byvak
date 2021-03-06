@@ -1,10 +1,11 @@
-### Hello Everyone <img align='right' src='https://www.coredna.com/web_images/What-is-Git.gif' width='180'>
+### Hello Everyone <img align='right' src='https://www.coredna.com/web_images/What-is-Git.gif' width='170'>
 
 
 *My name is **Burnny Kibonge*** 😊
 
 - 🌱 I’m currently learning `flutter` and I'm passionate about programming.
 ## 📊 Github stats
+
 
 [![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak)
 
