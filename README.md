@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning `flutter` and I'm passionate about programming.
 ## 📊 Github stats
-
+![Profile views](https://gpvc.arturio.dev/Byvak)  
 #
 [![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak)
 
