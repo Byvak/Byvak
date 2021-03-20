@@ -8,7 +8,7 @@
 #
 [![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byvak&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/byvak)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byvak&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/byvak) -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
 ?username=byvak&layout=default&theme=algolia&hide=html,coffeescript)](https://github.com/byvak)-->
