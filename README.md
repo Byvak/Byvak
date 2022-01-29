@@ -1,7 +1,7 @@
 ### Hi Everyone 👋🏼
 
 
-*I'm **Burnny Kibonge** a passionate developer from DRC*  😊
+I'm ***Burnny Kibonge*** a passionate developer from DRC 😊
 
 - `Flutter Developer`.
 <!-- ## 📊 Github stats 
