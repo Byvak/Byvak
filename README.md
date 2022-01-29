@@ -3,7 +3,7 @@
 
 *I'm **Burnny Kibonge** a passionate developer from DRC*  😊
 
-- 🌱 I’m currently learning `flutter`.
+- I’m currently learning `Flutter Developer`.
 <!-- ## 📊 Github stats 
 #
 [![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak) -->
