@@ -1,4 +1,4 @@
-### Hi Everyone
+### Hi Everyone 👋🏼
 
 
 *I'm **Burnny Kibonge** a passionate developer from DRC*  😊
