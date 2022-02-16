@@ -3,6 +3,8 @@
 
 I'm ***Burnny Kibonge*** a passionate developer from DRC 😊
 
+<a href="https://stackoverflow.com/users/11419314/burnny-kibonge"><img src="https://stackoverflow.com/users/flair/11419314.png?theme=dark" width="208" height="58" alt="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 - `Flutter Developer`
 <!-- ## 📊 Github stats 
 #
@@ -26,4 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://stackoverflow.com/users/11419314/burnny-kibonge"><img src="https://stackoverflow.com/users/flair/11419314.png?theme=dark" width="208" height="58" alt="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
