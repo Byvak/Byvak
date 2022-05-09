@@ -1,11 +1,14 @@
+<img src="https://user-images.githubusercontent.com/50081358/167450514-8001c089-03d2-400e-9b2e-e3296d7b9094.png" alt="my banner">
+
 <a href="https://stackoverflow.com/users/11419314/burnny-kibonge"><img src="https://stackoverflow.com/users/flair/11419314.png?theme=dark" width="208" height="58" alt="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ### Hi Everyone 👋🏼
 
-
+<!-- https://www.canva.com/join/xnj-spc-kqd -->
 I'm ***Burnny Kibonge*** a passionate developer from DRC 😊
 
 - `Flutter Developer`
-<!-- ## 📊 Github stats 
+<!-- ## 📊 Github stats
 #
 [![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak) -->
 
