@@ -1,5 +1,5 @@
 <p align ="center">
-<img height="600" src="https://user-images.githubusercontent.com/50081358/167450514-8001c089-03d2-400e-9b2e-e3296d7b9094.png" alt="my banner">
+<img height="400" src="https://user-images.githubusercontent.com/50081358/167450514-8001c089-03d2-400e-9b2e-e3296d7b9094.png" alt="my banner">
 </p>
 
 <a href="https://stackoverflow.com/users/11419314/burnny-kibonge"><img src="https://stackoverflow.com/users/flair/11419314.png?theme=dark" width="208" height="58" alt="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
