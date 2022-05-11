@@ -1,20 +1,16 @@
+# Hi Everyone 👋🏼 I'm👇🏼
 
-<img src="https://user-images.githubusercontent.com/50081358/167450514-8001c089-03d2-400e-9b2e-e3296d7b9094.png" alt="my banner">
+![My banner](https://user-images.githubusercontent.com/50081358/167585728-c11fcb92-db1a-4d8d-82e9-f8ba9ba91ad7.jpg)
 
-<a href="https://stackoverflow.com/users/11419314/burnny-kibonge"><img src="https://stackoverflow.com/users/flair/11419314.png?theme=dark" width="208" height="58" alt="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Burnny Kibonge at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+## 📊 Github stats
 
-<!-- ### Hi Everyone 👋🏼 -->
+[![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byvak&layout=compact&theme=dark&count_private=true)](https://github.com/byvak/github-readme-stats)
 
-<!-- https://www.canva.com/join/xnj-spc-kqd -->
+[![StackOverflow badge](https://stackoverflow.com/users/flair/11419314.png?theme=dark)](https://stackoverflow.com/users/11419314/burnny-kibonge)
+
 <!-- I'm ***Burnny Kibonge*** a passionate developer from DRC 😊 -->
 
 <!-- - `Flutter Developer` -->
-<!-- ## 📊 Github stats
-#
-[![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak) -->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byvak&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/byvak) -->
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
 ?username=byvak&layout=default&theme=algolia&hide=html,coffeescript)](https://github.com/byvak)-->
 <!--
