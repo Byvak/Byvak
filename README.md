@@ -4,9 +4,38 @@
 
 ## 📊 Github stats
 
-[![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byvak&layout=compact&theme=dark&count_private=true)](https://github.com/byvak/github-readme-stats)
+[![Burnny Kibonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=byvak&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/byvak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byvak&layout=compact&theme=dark&count_private=true)](https://github.com/byvak)
 
-[![StackOverflow badge](https://stackoverflow.com/users/flair/11419314.png?theme=dark)](https://stackoverflow.com/users/11419314/burnny-kibonge)
+## My Technical Skills
+
+### Programming Languages
+
+<img src="/logos/javascript.png" alt="javascript" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/dart.webp" alt="html" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+### Technologies & Frameworks
+
+<img src="/logos/node-js.png" alt="node-js" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/express.png" alt="flutter" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/flutter.png" alt="express" width="50" margin="20" />
+
+### Databases Engine
+
+<img src="/logos/mongodb.png" alt="mongodb" width="50" margin="20" />
+
+### Release Management & CI
+
+<img src="/logos/git.png" alt="git" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/github.png" alt="github" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/bitbucket.png" alt="bitbucket" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/heroku.png" alt="heroku" width="50" margin="20" />
+
+<!-- ### API & API Documentation
+
+<img src="/logos/google-maps.png" alt="google-maps" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/swagger.png" alt="swagger" width="50" margin="20" /> -->
+
+### Modeling and Project Management
+
+<img src="/logos/uml.png" alt="uml" width="50" margin="20" />
+
+<!-- [![StackOverflow badge](https://stackoverflow.com/users/flair/11419314.png?theme=dark)](https://stackoverflow.com/users/11419314/burnny-kibonge) -->
+
+## `🤝🏻 You can connect with me on :`
 
 <!-- I'm ***Burnny Kibonge*** a passionate developer from DRC 😊 -->
 
