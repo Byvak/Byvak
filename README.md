@@ -25,17 +25,23 @@
 
 <img src="/logos/git.png" alt="git" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/github.png" alt="github" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/bitbucket.png" alt="bitbucket" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/heroku.png" alt="heroku" width="50" margin="20" />
 
-<!-- ### API & API Documentation
-
-<img src="/logos/google-maps.png" alt="google-maps" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/swagger.png" alt="swagger" width="50" margin="20" /> -->
-
 ### Modeling and Project Management
 
 <img src="/logos/uml.png" alt="uml" width="50" margin="20" />
 
 <!-- [![StackOverflow badge](https://stackoverflow.com/users/flair/11419314.png?theme=dark)](https://stackoverflow.com/users/11419314/burnny-kibonge) -->
 
-## `🤝🏻 You can connect with me on :`
+### `🤝🏻 You can connect with me on :`
+
+[<img align="left" alt="Burnny Kibonge | Twitter" width="60px" height="50" src="/logos/twitter.png"/>][twitter]
+
+[<img align="left" alt="Burnny Kibonge | LinkedIn" width="50px" height="50" src="/logos/linkedin.png"/>][linkedin]
+
+[<img align="left" alt="Burnny Kibonge | LinkedIn" width="50px" height="50" src="/logos/gmail.png.webp"/>][email]
+
+[twitter]: https://twitter.com/_Byvak
+[linkedin]: https://www.linkedin.com/in/burnny-kibonge-20b391b9/
+[email]: mailto:kibonge.burnny@gmail.com
 
 <!-- I'm ***Burnny Kibonge*** a passionate developer from DRC 😊 -->
 
