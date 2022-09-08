@@ -2,7 +2,7 @@
 
 ![My banner](https://user-images.githubusercontent.com/50081358/167585728-c11fcb92-db1a-4d8d-82e9-f8ba9ba91ad7.jpg)
 
-[![committers.top badge](https://byvak-badge.committers.top/congo_kinshasa_private/byvak.svg)](https://byvak-badge.committers.top/congo_kinshasa_private/byvak)
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/Byvak.svg)](https://user-badge.committers.top/congo_kinshasa_private/Byvak)
 
 ## 📊 Github stats
 
