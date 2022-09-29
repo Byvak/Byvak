@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/Byvak_"><img src="https://api.daily.dev/devcards/9f481603f67b4fd4ae8f39fa4edf7b10.png?r=wnk" width="400" alt="Burnny Kibonge's Dev Card"/></a>
 
-![My banner](https://user-images.githubusercontent.com/50081358/167585728-c11fcb92-db1a-4d8d-82e9-f8ba9ba91ad7.jpg)
+<!-- ![My banner](https://user-images.githubusercontent.com/50081358/167585728-c11fcb92-db1a-4d8d-82e9-f8ba9ba91ad7.jpg) -->
 
 <!-- ## 📊 Github stats
 
