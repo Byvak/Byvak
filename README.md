@@ -12,6 +12,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/Byvak.svg)](https://user-badge.committers.top/congo_kinshasa_private/Byvak) -->
 
+<a href="https://app.daily.dev/Byvak_"><img src="https://api.daily.dev/devcards/9f481603f67b4fd4ae8f39fa4edf7b10.png?r=wnk" width="400" alt="Burnny Kibonge's Dev Card"/></a>
+
 ## My Technical Skills
 
 ### Programming Languages
