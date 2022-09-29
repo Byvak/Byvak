@@ -1,4 +1,4 @@
-# Hi Everyone 👋🏼 I'm👇🏼
+# Hi Everyone 👋🏼 I'm Burnny Kibonge
 
 <a href="https://app.daily.dev/_Byvak"><img src="https://api.daily.dev/devcards/9f481603f67b4fd4ae8f39fa4edf7b10.png?r=pct" width="400" alt="Burnny Kibonge's Dev Card"/></a>
 
